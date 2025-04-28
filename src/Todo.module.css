@@ -1,0 +1,33 @@
+.container {
+  /* text-align: center; */
+  width: max-content;
+  margin: auto auto;
+  border: 5px solid rgb(164, 141, 234);
+  border-radius: 5%;
+  padding: 40px;
+}
+
+.highHeader {
+  background-color: rgb(240, 121, 121);
+  text-align: center;
+}
+
+.mediumHeader {
+  background-color: rgb(240, 230, 121);
+  text-align: center;
+}
+
+.lowHeader {
+  background-color: rgb(121, 240, 133);
+  text-align: center;
+}
+
+.tasks {
+  font-family: sans-serif;
+  font-size: 20px;
+}
+
+.inputField {
+  font-size: 50px;
+  /* border: 1px solid black; */
+}
